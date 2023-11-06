@@ -10,8 +10,6 @@ OneChat is a web-based chat application that enables users to connect and conver
 
 - **Web Accessibility:** Accessible through web browsers, making it easy for users to chat from any device with internet access.
 
-- **User Profiles:** Create and customize your user profile to add a personal touch to your chatting experience.
-
 - **Real-time Messaging:** Enjoy real-time messaging with a responsive and user-friendly interface.
 
 ## Tech Stack
