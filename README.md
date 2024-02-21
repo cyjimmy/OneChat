@@ -6,9 +6,7 @@ OneChat is a web-based chat application that enables users to connect and conver
 
 - **Random Chat:** Connect with strangers online for casual and interesting conversations.
 
-- **Translation:** Instantly translate messages to and from your chosen language, facilitating global communication.
-
-- **Web Accessibility:** Accessible through web browsers, making it easy for users to chat from any device with internet access.
+- **Translation:** Instantly translate messages to your chosen language, facilitating global communication.
 
 - **Real-time Messaging:** Enjoy real-time messaging with a responsive and user-friendly interface.
 
@@ -18,8 +16,8 @@ OneChat is a web-based chat application that enables users to connect and conver
 
 - **Backend:** Powered by Node.js and Express for server-side logic and real-time communication.
 
-- **Database:** MongoDB is used to store user data and chat history.
-
 - **Real-time Communication:** Socket.io facilitates real-time messaging between users.
+
+- **Database:** MongoDB is used to store user data and chat history.
 
 - **Translation API:** Google Cloud Translation API ensures accurate and efficient translation services.
